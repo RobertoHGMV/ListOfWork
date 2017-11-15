@@ -1,0 +1,14 @@
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Domain.dll
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Domain.pdb
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Shared.dll
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Shared.pdb
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.dll
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.pdb
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Domain.dll
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Domain.pdb
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Shared.dll
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\bin\Debug\ListOfWork.Shared.pdb
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.dll
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Domain\obj\Debug\ListOfWork.Domain.pdb

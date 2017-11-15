@@ -1,0 +1,9 @@
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\bin\Debug\ListOfWork.Shared.dll
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\bin\Debug\ListOfWork.Shared.pdb
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\obj\Debug\ListOfWork.Shared.dll
+C:\Users\Desenvolvimento\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\obj\Debug\ListOfWork.Shared.pdb
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\bin\Debug\ListOfWork.Shared.dll
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\bin\Debug\ListOfWork.Shared.pdb
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\obj\Debug\ListOfWork.Shared.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\obj\Debug\ListOfWork.Shared.dll
+C:\Users\PC1\Documents\Visual Studio 2017\Projects\ListOfWork\src\ListOfWork.Shared\obj\Debug\ListOfWork.Shared.pdb
